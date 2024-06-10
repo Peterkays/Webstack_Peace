@@ -1,5 +1,5 @@
 # Peace Dash Web App
-![appLogo](https://github.com/Peterkays/Liam-sApp/assets/122306180/a2d93ccd-b0d1-4abc-9b2c-9004258a226d)
+![appLogo](https://github.com/Peterkays/Webstack_Peace/blob/main/client/src/assets/peacedash.JPG))
 
 ## Introduction
 
